@@ -1,8 +1,12 @@
 
-/*-- NAV -*/
-
 /*-- JUMBOTRON -*/
-
+.pink {
+  background-color: pink;
+}
 /*-- BUTTONS -*/
 
 /*-- WELLS -*/
+.well-lg {
+  background-color: beige;
+
+}
